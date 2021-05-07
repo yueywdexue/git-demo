@@ -6,4 +6,4 @@ git hello world
 git hello world
 git hello world
 git hello world master test
-git hello world
+git hello world hot-fix test
